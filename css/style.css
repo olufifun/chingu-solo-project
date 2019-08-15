@@ -6,4 +6,5 @@ html {
     background-color: rgb(95, 99, 109);
     border-color: rgb(95, 99, 109);
     display: inline-block;
+    padding: 10px;
 }
