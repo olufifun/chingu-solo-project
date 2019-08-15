@@ -1,3 +1,7 @@
 html {
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
+
+.navbar {
+    background-color: rgb(95, 99, 109);
+}
