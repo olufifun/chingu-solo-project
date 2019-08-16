@@ -18,7 +18,8 @@ html {
     border: 1px solid #646d7c;
     color: white;
     display: inline-block;
-    padding: 15px 25px;
     margin: 10px;
+    padding: 15px 25px;
+    text-decoration: none;
 }
 
