@@ -18,6 +18,7 @@ html {
     border: 1px solid #646d7c;
     color: white;
     display: inline-block;
+    font-size: 20px;
     margin: 10px;
     padding: 15px 25px;
     text-decoration: none;
@@ -25,3 +26,6 @@ html {
             transition: all 0.5s ease;
 }
 
+.navbar li a:hover {
+    background: #49505F;
+}
