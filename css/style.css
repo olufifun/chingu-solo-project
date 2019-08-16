@@ -29,3 +29,9 @@ html {
 .navbar li a:hover {
     background: #49505F;
 }
+
+header{
+    font-size: 2.2rem;
+    line-height: 30%;
+    text-align: center;
+}
