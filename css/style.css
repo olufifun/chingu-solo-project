@@ -6,15 +6,18 @@ html {
     background-color: rgb(95, 99, 109);
     border-color: rgb(95, 99, 109);
     text-align: center;
+}
+
+.navbar li {
+    display: inline-block;
     padding: 10px;
 }
 
 .navbar li a {
+    border: 1px solid #646d7c;
+    color: white;
     display: inline-block;
     padding: 15px 25px;
-    list-style-type: none;
-    list-style: none;
-    color: white;
     margin: 10px;
 }
 
