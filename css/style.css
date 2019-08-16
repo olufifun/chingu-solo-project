@@ -14,6 +14,7 @@ html {
 }
 
 .navbar li a {
+    background: #383E4C none repeat scroll 0 0;
     border: 1px solid #646d7c;
     color: white;
     display: inline-block;
