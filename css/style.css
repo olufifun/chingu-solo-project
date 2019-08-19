@@ -6,10 +6,19 @@ html {
     background-color: #383E4C;
     border-color: #383E4C;
     text-align: center;
-    position: fixed;
+    /* position: fixed;
     top: 0px;
-    width: 100%;
+    width: 100%; */
 }
+
+/* body {
+    padding-top: 100px; 
+}
+@media (min-width: 980px) {
+    body {
+        padding-top: 50px;
+    }    
+} */
 
 .navbar li {
     display: inline-block;
