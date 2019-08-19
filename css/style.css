@@ -56,6 +56,21 @@ img {
     border: none;
   }
 
+/* Start Contact CSS */
+#contact h1 {
+    /* color: white; */
+
+}
+
+.form {
+    margin-bottom: 15px;
+    width: 90%;
+    background: rgba(242, 242, 242, 0.5);
+    border: none;
+}
+
+/* End Contact CSS */
+
 /* Start Footer CSS */
 hr {
     border: 0;
