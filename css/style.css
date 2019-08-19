@@ -1,5 +1,6 @@
 html {
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    text-align: center;
 }
 
 .navbar {
@@ -62,6 +63,12 @@ hr {
     box-shadow: 0 0 10px 1px black;
 }
 
-
+#footer-area h1 {
+    color: #666;
+    font-size: 32px;
+    font-style: italic;
+    margin-bottom: 25px;
+    margin-top: 35px;
+}
 
 /* End Footer CSS */
