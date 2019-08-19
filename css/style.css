@@ -54,3 +54,14 @@ img {
     height: auto;
     border: none;
   }
+
+/* Start Footer CSS */
+hr {
+    border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 10px 1px black;
+}
+
+
+
+/* End Footer CSS */
