@@ -1,6 +1,7 @@
 html {
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     text-align: center;
+    scroll-behavior: smooth;
 }
 
 .navbar {
