@@ -149,6 +149,9 @@ h2 {
     text-align: center;
     /* width: 75%; */
 }
+#contact p {
+    padding: 0 20%;
+}
 
 .form {
     margin-bottom: 15px;
