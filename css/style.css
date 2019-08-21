@@ -66,13 +66,15 @@ img {
 
 #testimonial-row {
     display: inline-flex;
+    background-color: white;
 }
 
 .testimonial-content {
-    background-color: #f2f2f2;
+    background-color: white;
     height: 500px;
     max-width: 260px;
     margin: 0 auto 30px;
+    padding: 0px 15px;
   }
 
   .testimonial-content p {
