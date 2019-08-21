@@ -130,8 +130,12 @@ h2 {
 /* Start Contact CSS */
 #contact h1 {
     /* color: white; */
-
 }
+
+#contact {
+    justify-content: center;
+}
+
 
 #contact-p {
     background: rgba(242, 242, 242, 0.5) none repeat scroll 0 0;
@@ -139,11 +143,11 @@ h2 {
     color: black;
     font-size: 16px;
     margin-bottom: 20px;
-    margin-left: 4.5%;
-    margin-right: 9%;
+    margin-left: 10%;
+    margin-right: 10%;
     padding: 20px 15px;
     text-align: center;
-    width: 90%;
+    /* width: 75%; */
 }
 
 .form {
