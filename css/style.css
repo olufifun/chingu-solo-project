@@ -134,6 +134,7 @@ h2 {
 
 #contact {
     justify-content: center;
+    background-image: url("../img/bg-2.jpg");
 }
 
 
@@ -143,8 +144,8 @@ h2 {
     color: black;
     font-size: 16px;
     margin-bottom: 20px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
     padding: 20px 15px;
     text-align: center;
     /* width: 75%; */
