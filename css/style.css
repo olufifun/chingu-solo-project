@@ -91,6 +91,9 @@ img {
     height: auto;
 }
 
+.about-text {
+    text-align: left;
+}
 /* End About CSS */
 
 
