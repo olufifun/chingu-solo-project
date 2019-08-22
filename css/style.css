@@ -60,7 +60,15 @@ img {
 
 /* End navbar CSS */
 
+/* Start Services CSS */
 
+#services-area {
+    background-image: url("../img/bg-1.jpg");
+    background-attachment: fixed;
+    height: auto;
+}
+
+/* End Services CSS */
 
 /* Start Testimonial CSS */
 
