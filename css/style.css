@@ -141,7 +141,10 @@ button:focus {
     background: rgb(139, 165, 139) none repeat scroll 0 0;
 }
 
-
+.blue-button:hover,
+.blue-button:focus {
+    background: rgb(109, 155, 180) none repeat scroll 0 0;
+}
 /* End About CSS */
 
 
