@@ -70,7 +70,7 @@ img {
 }
 
 .blog-content {
-    
+    max-width: 555px;
 }
 /* End Blog Area CSS */
 
