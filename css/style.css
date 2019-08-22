@@ -80,6 +80,13 @@ img {
 /* End navbar CSS */
 
 /*Start About CSS*/
+#about-section {
+    display: inline-flex;
+}
+
+.about {
+    max-width: 360px;
+}
 
 /* End About CSS */
 
