@@ -87,7 +87,7 @@ img {
 .about {
     max-width: 360px;
     background-color: whitesmoke;
-
+    margin: 50px 15px;
 }
 
 /* End About CSS */
