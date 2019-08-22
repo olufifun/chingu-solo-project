@@ -36,7 +36,7 @@ img {
     border: none;
   }
 
-  button {
+button {
     background: #fff;
     border: 1px solid #cdcdcd;
     border-radius: 10px;
@@ -48,7 +48,12 @@ img {
     margin-top: 15px;
     -webkit-transition: all 0.3s ease;
             transition: all 0.3s ease;
-  }
+}
+
+button:hover,
+button:focus {
+    background: #E6E6E6 none repeat scroll 0 0;
+}
 
 /* Start navbar CSS */
 .navbar {
@@ -130,6 +135,13 @@ img {
     background-color: #C9302C;
     color: white;
 }
+
+.green-button:hover,
+.green-button:focus {
+    background: rgb(139, 165, 139) none repeat scroll 0 0;
+}
+
+
 /* End About CSS */
 
 
