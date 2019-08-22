@@ -20,6 +20,10 @@ header{
     text-align: center;
 }
 
+h1 {
+    font-size: 32px;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -69,6 +73,10 @@ img {
     color: white;
 }
 
+#services {
+    padding-top: 5%;
+    line-height: 1.5;
+}
 
 /* End Services CSS */
 
