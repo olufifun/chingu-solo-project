@@ -26,8 +26,12 @@ header{
     padding-top: 150px;
 }
 
-h1 {
+.title {
     font-size: 72px;
+}
+
+h1 {
+    font-size: 32px;
 }
 
 img {
