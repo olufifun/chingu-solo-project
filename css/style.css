@@ -93,6 +93,11 @@ img {
 .blog-text {
     padding: 10px 50px;
 }
+
+
+.blog-text p {
+    text-align: left;
+}
 /* End Blog Area CSS */
 
 
