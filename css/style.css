@@ -30,6 +30,20 @@ img {
     border: none;
   }
 
+  button {
+    background: #fff;
+    border: 1px solid #cdcdcd;
+    border-radius: 10px;
+    color: #666;
+    display: inline-block;
+    font-size: 18px;
+    padding: 10px 30px;
+    text-decoration: none;
+    margin-top: 15px;
+    -webkit-transition: all 0.3s ease;
+            transition: all 0.3s ease;
+  }
+
 /* Start navbar CSS */
 .navbar {
     background-color: #383E4C;
