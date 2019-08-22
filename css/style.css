@@ -84,7 +84,7 @@ img {
 
 .testimonial-content {
     /* background-color: white; */
-    height: 500px;
+    height: auto;
     max-width: 260px;
     margin: 0 auto 30px;
     padding: 0px 15px;
