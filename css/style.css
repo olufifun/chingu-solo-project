@@ -20,7 +20,10 @@ header{
     line-height: 30%;
     text-align: center;
     background-image: url("../img/header.jpg");
-    
+    background-attachment: fixed;
+    height: 400px;
+    color: white;
+    padding-top: 150px;
 }
 
 h1 {
