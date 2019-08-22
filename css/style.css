@@ -60,9 +60,8 @@ button:focus {
     background-color: #383E4C;
     border-color: #383E4C;
     text-align: center;
-    /* position: fixed;
-    top: 0px;
-    width: 100%; */
+    position: sticky;
+    top: 0;
 }
 
 .navbar li {
