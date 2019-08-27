@@ -7,7 +7,7 @@ It's a clone of a website template that was originally made using Bootstrap and 
 For development, you will only need to have a browser installed on your PC or MAC.
 Just download and run in your local environment.
 
-## Screenshots
+## Screenshot
 <img src="img/Screenshot-1.png">
 
 ## Tech Stack
