@@ -11,10 +11,7 @@ Just download and run in your local environment.
 <img src="img/Screenshot-1.png">
 
 ## Tech Stack
-Built with
-    -HTML5
-    -CSS3
-    -JavaScript
+Built with HTML5, CSS3 and JavaScript
 
 ## Deployment
 You can see the deployed project on konker.netlify.com.
