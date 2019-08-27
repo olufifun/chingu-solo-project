@@ -3,7 +3,7 @@
 Konker is my Tier-1 solo project for Chingu Cohort Voyage 11 created with HTML5, CSS, and JavaScript(Vanilla).
 It's a clone of a website template that was originally made using Bootstrap and Jquery.
 
-##Screenshots
+#Screenshots
 <img src="img/Screenshot-1.png">
 
 #Tech Stack
@@ -12,3 +12,13 @@ Built with
     CSS3
     JavaScript
 
+#Installation
+
+#Authors and Acknowledgement
+
+#License
+MIT License
+
+#Project Status
+This project is complete, but not really. Feel free to fork and work on it.
+Pull requests are welcome.
