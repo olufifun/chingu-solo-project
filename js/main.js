@@ -1,5 +1,5 @@
 window.addEventListener('scroll', function(e) {
-    const target = document.querySelector('#home');
+    const target = document.querySelector('.scroll');
 
     var scrolled = window.pageYOffset;
     var rate = scrolled * 0.2;
