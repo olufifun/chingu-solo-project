@@ -12,9 +12,9 @@ For development, you will only need to have a browser installed on your PC or MA
 ## Tech Stack
 
 Built with
-    *HTML5
-    *CSS3
-    *JavaScript
+    -HTML5
+    -CSS3
+    -JavaScript
 
 ## Installation
 
