@@ -1,10 +1,9 @@
-    window.addEventListener('scroll', function(e) {
-        const target = document.querySelector('.scroll');
+window.addEventListener('scroll', function(e) {
+    const target = document.querySelector('#home');
 
-        var scrolled = window.pageYOffset;
-        var rate = scrolled * 0.5;
+    var scrolled = window.pageYOffset;
+    var rate = scrolled * 0.2;
 
-        target.style.transform = "translate3d(0px, "+ rate + "px, 0px)";
-        
-
-    })
+    target.style.transform = "translate3d(0px, "+ rate + "px, 0px)";
+    
+})
